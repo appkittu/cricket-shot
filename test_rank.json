@@ -4,7 +4,7 @@
       "pos": "1",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/ind.jpg",
       "cn": "IND",
-      "wms*": "32",
+      "wms": "32",
       "pnts": "3631",
       "rate": "113"
     },
@@ -12,7 +12,7 @@
       "pos": "2",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/nzl.jpg",
       "cn": "NZ",
-      "wms*": "23",
+      "wms": "23",
       "pnts": "2547",
       "rate": "111"
     },
@@ -20,7 +20,7 @@
       "pos": "3",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/rsa.jpg",
       "cn": "SA",
-      "wms*": "27",
+      "wms": "27",
       "pnts": "2917",
       "rate": "108"
     },
@@ -28,7 +28,7 @@
       "pos": "4",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/eng.jpg",
       "cn": "ENG",
-      "wms*": "35",
+      "wms": "35",
       "pnts": "3663",
       "rate": "105"
     },
@@ -36,7 +36,7 @@
       "pos": "5",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/aus.jpg",
       "cn": "AUS",
-      "wms*": "27",
+      "wms": "27",
       "pnts": "2640",
       "rate": "98"
     },
@@ -44,7 +44,7 @@
       "pos": "6",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/lka.jpg",
       "cn": "SL",
-      "wms*": "37",
+      "wms": "37",
       "pnts": "3462",
       "rate": "94"
     },
@@ -52,7 +52,7 @@
       "pos": "7",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/pak.jpg",
       "cn": "PAK",
-      "wms*": "27",
+      "wms": "27",
       "pnts": "2263",
       "rate": "84"
     },
@@ -60,7 +60,7 @@
       "pos": "8",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/bwi.jpg",
       "cn": "WI",
-      "wms*": "29",
+      "wms": "29",
       "pnts": "2381",
       "rate": "82"
     },
@@ -68,7 +68,7 @@
      "pos": "9",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/bgd.jpg",
       "cn": "BAN",
-      "wms*": "22",
+      "wms": "22",
       "pnts": "1438",
       "rate": "65"
     },
@@ -76,7 +76,7 @@
       "pos": "10",
       "img": "https://github.com/appkittu/cricket-shot/blob/master/zwe.jpg",
       "cn": "ZWE",
-      "wms*": "9",
+      "wms": "9",
       "pnts": "140",
       "rate": "16"
     }
