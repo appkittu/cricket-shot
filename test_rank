@@ -1,102 +1,102 @@
 {
   "Ind": [
     {
-      "pos": "",
-      "img": "",
+      "pos": "1",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/ind.jpg",
       "cn": "IND",
       "wms*": "32",
       "pnts": "3631",
-      "rate": "13",
+      "rate": "113",
     }
   ],
   "NZ": [
     {
-      "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+      "pos": "2",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/nzl.jpg",
+      "cn": "NZ",
+      "wms*": "23",
+      "pnts": "2547",
+      "rate": "111",
     }
   ],
   "SA": [
     {
-      "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+      "pos": "3",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/rsa.jpg",
+      "cn": "SA",
+      "wms*": "27",
+      "pnts": "2917",
+      "rate": "108",
     }
   ],
   "ENG": [
     {
-      "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+      "pos": "4",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/eng.jpg",
+      "cn": "ENG",
+      "wms*": "35",
+      "pnts": "3663",
+      "rate": "105",
     }
   ],
   "AUS": [
     {
-      "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+      "pos": "5",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/aus.jpg",
+      "cn": "AUS",
+      "wms*": "27",
+      "pnts": "2640",
+      "rate": "98",
     }
   ],
   "Sl": [
     {
-      "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+      "pos": "6",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/lka.jpg",
+      "cn": "SL",
+      "wms*": "37",
+      "pnts": "3462",
+      "rate": "94",
     }
   ],
   "PAk": [
     {
-      "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+      "pos": "7",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/pak.jpg",
+      "cn": "PAK",
+      "wms*": "27",
+      "pnts": "2263",
+      "rate": "84",
     }
   ],
   "WI": [
     {
-      "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+      "pos": "8",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/bwi.jpg",
+      "cn": "WI",
+      "wms*": "29",
+      "pnts": "2381",
+      "rate": "82",
     }
   ],
   "BAN": [
     {
-     "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+     "pos": "9",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/bgd.jpg",
+      "cn": "BAN",
+      "wms*": "22",
+      "pnts": "1438",
+      "rate": "65",
     }
   ],
   "ZIM": [
     {
-      "pos": "",
-      "img": "",
-      "cn": "IND",
-      "wms*": "32",
-      "pnts": "3631",
-      "rate": "13",
+      "pos": "10",
+      "img": "https://github.com/appkittu/cricket-shot/blob/master/zwe.jpg",
+      "cn": "ZWE",
+      "wms*": "9",
+      "pnts": "140",
+      "rate": "16",
     }
   ]
 }
