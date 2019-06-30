@@ -2,7 +2,7 @@
   "test": [
     {
       "pos": "1",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/ind.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
       "cn": "IND",
       "wms": "32",
       "pnts": "3631",
@@ -10,7 +10,7 @@
     },
     {
       "pos": "2",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/nzl.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png",
       "cn": "NZ",
       "wms": "23",
       "pnts": "2547",
@@ -18,7 +18,7 @@
     },
     {
       "pos": "3",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/rsa.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png",
       "cn": "SA",
       "wms": "27",
       "pnts": "2917",
@@ -26,7 +26,7 @@
     },
     {
       "pos": "4",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/eng.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
       "cn": "ENG",
       "wms": "35",
       "pnts": "3663",
@@ -34,7 +34,7 @@
     },
     {
       "pos": "5",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/aus.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
       "cn": "AUS",
       "wms": "27",
       "pnts": "2640",
@@ -42,7 +42,7 @@
     },
     {
       "pos": "6",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/lka.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_48x48.png",
       "cn": "SL",
       "wms": "37",
       "pnts": "3462",
@@ -50,7 +50,7 @@
     },
     {
       "pos": "7",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/pak.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png",
       "cn": "PAK",
       "wms": "27",
       "pnts": "2263",
@@ -58,7 +58,7 @@
     },
     {
       "pos": "8",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/bwi.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png",
       "cn": "WI",
       "wms": "29",
       "pnts": "2381",
@@ -66,7 +66,7 @@
     },
     {
      "pos": "9",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/bgd.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_48x48.png",
       "cn": "BAN",
       "wms": "22",
       "pnts": "1438",
@@ -74,7 +74,7 @@
     },
     {
       "pos": "10",
-      "img": "https://github.com/appkittu/cricket-shot/blob/master/zwe.jpg",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
       "cn": "ZWE",
       "wms": "9",
       "pnts": "140",
