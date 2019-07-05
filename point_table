@@ -1,1 +1,127 @@
+{
+
+  "test": [
+
+    {
+      "pos": "1",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+      "cn": "AUS",
+      "p": "8",
+      "w": "7",
+      "l": "1",
+      "nr": "0",
+      "rr" : "+1.000",
+      "pts": "14"
+    },
+
+   {
+      "pos": "2",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
+      "cn": "IND",
+      "p": "8",
+      "w": "6",
+      "l": "1",
+      "nr": "1",
+      "rr" : "+0.811",
+      "pts": "13"
+    },
+
+  {
+      "pos": "3",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
+      "cn": "ENG",
+      "p": "9",
+      "w": "6",
+      "l": "3",
+      "nr": "0",
+      "rr" : "+1.152",
+      "pts": "12"
+    },
+
+    {
+      "pos": "4",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png",
+      "cn": "NZ",
+      "p": "9",
+      "w": "5",
+      "l": "3",
+      "nr": "1",
+      "rr" : "+0.175",
+      "pts": "11"
+    },
+
+  {
+      "pos": "5",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png",
+      "cn": "PAK",
+      "p": "8",
+      "w": "4",
+      "l": "3",
+      "nr": "1",
+      "rr" : "-0.792",
+      "pts": "9"
+    },
+
+   {
+      "pos": "6",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_48x48.png",
+      "cn": "SL",
+      "p": "8",
+      "w": "3",
+      "l": "3",
+      "nr": "2",
+      "rr" : "-0.934",
+      "pts": "8"
+    },
+    {
+      "pos": "7",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_48x48.png",
+      "cn": "BAN",
+      "p": "8",
+      "w": "3",
+      "l": "4",
+      "nr": "1",
+      "rr" : "-0.195",
+      "pts": "7"
+    },
+   {
+      "pos": "8",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png",
+      "cn": "SA",
+      "p": "8",
+      "w": "2",
+      "l": "5",
+      "nr": "1",
+      "rr" : "-0.080",
+      "pts": "5"
+    },
+
+   {
+      "pos": "9",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png",
+      "cn": "WI",
+      "p": "9",
+      "w": "2",
+      "l": "6",
+      "nr": "1",
+      "rr" : "-0.225",
+      "pts": "5"
+    },
+
+   {
+      "pos": "10",
+      "img": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
+      "cn": "AFG",
+      "p": "9",
+      "w": "0",
+      "l": "9",
+      "nr": "0",
+      "rr" : "-1.322",
+      "pts": "0"
+    }
+
+  ]
+
+}
+
 
