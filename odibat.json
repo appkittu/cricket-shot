@@ -1,0 +1,100 @@
+{
+
+  "test": [
+
+    {
+      "pos": "1",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1413.jpg",
+      "cn": "IND",
+      "name": "Virat Kohli",
+      "rate": "890"
+
+    },
+    {
+      "pos": "2",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/576.jpg",
+      "cn": "IND",
+      "name": "Rohit Sharma",
+      "rate": "839"
+
+
+
+    },
+
+
+
+    {
+      "pos": "3",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/521.jpg",
+      "cn": "NZ",
+      "name": "Ross Taylor",
+      "rate": "831"
+    },
+
+
+    {
+      "pos": "4",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8520.jpg",
+      "cn": "SA",
+      "name": "Quiton de Kock",
+      "rate": "809"
+    },
+
+    {
+      "pos": "5",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10384.jpg",
+      "cn": "WI",
+      "name": "Shai Hope",
+      "rate": "796"
+
+    },
+
+
+
+    {
+      "pos": "6",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/7825.jpg",
+      "cn": "SA",
+      "name": "Faf du Plessis",
+      "rate": "791"
+
+    },
+
+    {
+       "pos": "7",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8019.jpg",
+      "cn": "ENG",
+      "name": "Joe Root",
+      "rate": "786"
+    },
+
+    {
+      "pos": "8",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8359.jpg",
+      "cn": "PAK",
+      "name": "Babar Azam",
+      "rate": "777"
+
+    },
+
+
+
+    {
+     "pos": "9",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1457.jpg",
+      "cn": "NZ",
+      "name": "Martin Guptil",
+      "rate": "760"
+
+    },
+
+    {
+      "pos": "10",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10863.jpg",
+      "cn": "PAK",
+      "name": "Fakhar Zaman",
+      "rate": "755"
+
+    }
+    ]
+    }
