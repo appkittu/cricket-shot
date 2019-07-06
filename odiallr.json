@@ -1,0 +1,159 @@
+{
+
+  "test": [
+
+   {
+
+     "pos": "1",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/544.jpg",
+
+      "cn": "BAN",
+
+      "name": "Shakib Al Hasan",
+
+      "rate": "359"
+
+    },
+
+  
+
+     {
+
+      "pos": "2",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10738.jpg",
+
+      "cn": "AFG",
+
+      "name": "Rashid Khan",
+
+      "rate": "337"
+
+    },
+
+    
+
+ {
+
+      "pos": "3",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/3007.jpg",
+
+      "cn": "AFG",
+
+      "name": "Mohammad Nabi",
+
+      "rate": "312"
+
+    },
+
+    {
+
+
+
+      "pos": "4",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10408.jpg",
+
+      "cn": "PAK",
+
+      "name": "Imad Wasim",
+
+      "rate": "283"
+
+    },
+
+
+
+    {
+
+      "pos": "5",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10100.jpg",
+
+      "cn": "NZ",
+
+      "name": "Mitchell Santner",
+
+      "rate": "275"
+
+    },
+
+    {
+
+      "pos": "6",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/6670.jpg",
+
+      "cn": "ENG",
+
+      "name": "Chris Woakes",
+
+      "rate": "267"
+
+    },
+
+    {
+
+
+
+      "pos": "7",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/6557.jpg",
+
+      "cn": "ENG",
+
+      "name": "Ben Stokes",
+
+      "rate": "265"
+
+    },
+
+     {
+
+      "pos": "8",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8313.jpg",
+
+      "cn": "WI",
+
+      "name": "Jason Holder",
+
+      "rate": "264"
+
+    },
+
+
+
+{
+
+      "pos": "9",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/9354.jpg",
+
+      "cn": "ZIM",
+
+      "name": "Sikandar Raza",
+
+      "rate": "261"
+
+    },
+
+{
+
+      "pos": "10",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/360.jpg",
+
+      "cn": "PAK",
+
+      "name": "Mohammad Hafeez",
+
+      "rate": "261"
+
+    }
+
+  ]
+
+}
