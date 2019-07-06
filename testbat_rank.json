@@ -2,7 +2,7 @@
   "test": [
     {
       "pos": "1",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1413.jpg",
       "cn": "IND",
       "name": "Virat Kohli",
       "rate": "922"
@@ -12,7 +12,7 @@
     {
 
       "pos": "2",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/6326.jpg",
       "cn": "NZ",
       "name": "Kane Williamson",
       "rate": "913"
@@ -22,7 +22,7 @@
     {
 
       "pos": "3",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1448.jpg",
       "cn": "IND",
       "name": "Cheteshwar Pujara",
       "rate": "881"
@@ -32,7 +32,7 @@
     {
 
       "pos": "4",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/2250.jpg",
       "cn": "Aus",
       "name": "Steven Smith",
       "rate": "857"
@@ -42,7 +42,7 @@
     {
 
       "pos": "5",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10694.jpg",
       "cn": "NZ",
       "name": "Henry Nicholls",
       "rate": "778"
@@ -52,7 +52,7 @@
     {
 
       "pos": "6",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8019.jpg",
       "cn": "ENG",
       "name": "Joe Root",
       "rate": "763"
@@ -62,7 +62,7 @@
     {
 
       "pos": "7",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1739.jpg",
       "cn": "AUS",
       "name": "David Warner",
       "rate": "756"
@@ -71,7 +71,7 @@
 
     {
       "pos": "8",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/9582.jpg",
       "cn": "SA",
       "name": "Aiden Markram",
       "rate": "719"
@@ -80,7 +80,7 @@
 
     {
      "pos": "9",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8520.jpg",
       "cn": "SA",
       "name": "Quiton de Kock",
       "rate": "718"
@@ -89,77 +89,77 @@
 
     {
       "pos": "10",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/7825.jpg",
       "cn": "SA",
       "name": "Faf du Plessis",
       "rate": "702"
     },
      {
       "pos": "11",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/6635.jpg",
       "cn": "AUS",
       "name": "Usman Khawaja",
       "rate": "682"
     },
      {
       "pos": "12",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8216.jpg",
       "cn": "NZ",
       "name": "Tom Latham",
       "rate": "680"
     },
      {
       "pos": "13",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/7952.jpg",
       "cn": "SL",
       "name": "Dimuth Karunaratne",
       "rate": "676"
     },
      {
       "pos": "14",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/521.jpg",
       "cn": "NZ",
       "name": "Ross Taylor",
       "rate": "676"
     },
      {
       "pos": "15",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10744.jpg",
       "cn": "IND",
       "name": "Rishabh Pant",
       "rate": "673"
     },
      {
       "pos": "16",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/314.jpg",
       "cn": "SA",
       "name": "Hashim Amla",
       "rate": "664"
     },
      {
       "pos": "17",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1629.jpg",
       "cn": "SL",
       "name": "Angelo Mathews",
       "rate": "660"
     },
      {
       "pos": "18",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8359.jpg",
       "cn": "PAK",
       "name": "Babar Azam",
       "rate": "658"
     },
      {
       "pos": "19",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/9494.jpg",
       "cn": "SL",
       "name": "Kusal Mendis",
       "rate": "657"
     },
      {
       "pos": "20",
-      "img": "",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8497.jpg",
       "cn": "AUS",
       "name": "Travis Head",
       "rate": "644"
