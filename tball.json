@@ -1,0 +1,176 @@
+{
+
+  "test": [
+
+    {
+
+
+
+      "pos": "1",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10738.jpg",
+      "cn": "AFG",
+      "name": "Rashid Khan",
+      "rate": "780"
+
+    },
+
+
+
+    {
+
+
+
+      "pos": "2",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10408.jpg",
+      "cn": "PAK",
+      "name": "Imad Wasim",
+      "rate": "710"
+    },
+
+
+
+    {
+
+
+
+      "pos": "3",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/11186.jpg",
+
+      "cn": "PAK",
+
+      "name": "Shadab Khan",
+
+      "rate": "706"
+
+    },
+
+
+
+    {
+
+
+
+      "pos": "4",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1742.jpg",
+
+      "cn": "ENG",
+
+      "name": "Adil Rashid",
+
+      "rate": "702"
+
+
+
+    },
+
+
+
+    {
+
+
+
+      "pos": "5",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8292.jpg",
+
+      "cn": "IND",
+
+      "name": "Kuldeep Yadav",
+
+      "rate": "699"
+
+    },
+
+
+
+    {
+
+
+
+      "pos": "6",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8642.jpg",
+
+      "cn": "AUS",
+
+      "name": "Adam Zampa",
+
+      "rate": "672"
+
+    },
+
+
+
+    {
+
+
+
+      "pos": "7",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/544.jpg",
+
+      "cn": "BAN",
+
+      "name": "Shakib Al Hasan",
+
+      "rate": "658"
+
+    },
+
+
+
+    {
+
+
+
+      "pos": "8",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8561.jpg",
+
+      "cn": "NZ",
+
+      "name": "Ish Sodhi",
+
+      "rate": "657"
+
+    },
+
+
+
+    {
+
+     "pos": "9",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/9601.jpg",
+
+      "cn": "SA",
+
+      "name": "Andile Phehlukwayo",
+
+      "rate": "649"
+
+    },
+
+
+
+    {
+
+
+
+      "pos": "10",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/11265.jpg",
+
+      "cn": "PAK",
+
+      "name": "Faheem Ashraf",
+
+      "rate": "641"
+
+    }
+
+    ]
+
+    }
