@@ -1,0 +1,168 @@
+{
+  "test": [
+    {
+      "pos": "1",
+      "img": "",
+      "cn": "IND",
+      "name": "Virat Kohli",
+      "rate": "922"
+
+    },
+
+    {
+
+      "pos": "2",
+      "img": "",
+      "cn": "NZ",
+      "name": "Kane Williamson",
+      "rate": "913"
+
+    },
+
+    {
+
+      "pos": "3",
+      "img": "",
+      "cn": "IND",
+      "name": "Cheteshwar Pujara",
+      "rate": "881"
+
+    },
+
+    {
+
+      "pos": "4",
+      "img": "",
+      "cn": "Aus",
+      "name": "Steven Smith",
+      "rate": "857"
+
+    },
+
+    {
+
+      "pos": "5",
+      "img": "",
+      "cn": "NZ",
+      "name": "Henry Nicholls",
+      "rate": "778"
+
+    },
+
+    {
+
+      "pos": "6",
+      "img": "",
+      "cn": "ENG",
+      "name": "Joe Root",
+      "rate": "763"
+
+    },
+
+    {
+
+      "pos": "7",
+      "img": "",
+      "cn": "AUS",
+      "name": "David Warner",
+      "rate": "756"
+
+    },
+
+    {
+      "pos": "8",
+      "img": "",
+      "cn": "SA",
+      "name": "Aiden Markram",
+      "rate": "719"
+
+    },
+
+    {
+     "pos": "9",
+      "img": "",
+      "cn": "SA",
+      "name": "Quiton de Kock",
+      "rate": "718"
+
+    },
+
+    {
+      "pos": "10",
+      "img": "",
+      "cn": "SA",
+      "name": "Faf du Plessis",
+      "rate": "702"
+    },
+     {
+      "pos": "11",
+      "img": "",
+      "cn": "AUS",
+      "name": "Usman Khawaja",
+      "rate": "682"
+    },
+     {
+      "pos": "12",
+      "img": "",
+      "cn": "NZ",
+      "name": "Tom Latham",
+      "rate": "680"
+    },
+     {
+      "pos": "13",
+      "img": "",
+      "cn": "SL",
+      "name": "Dimuth Karunaratne",
+      "rate": "676"
+    },
+     {
+      "pos": "14",
+      "img": "",
+      "cn": "NZ",
+      "name": "Ross Taylor",
+      "rate": "676"
+    },
+     {
+      "pos": "15",
+      "img": "",
+      "cn": "IND",
+      "name": "Rishabh Pant",
+      "rate": "673"
+    },
+     {
+      "pos": "16",
+      "img": "",
+      "cn": "SA",
+      "name": "Hashim Amla",
+      "rate": "664"
+    },
+     {
+      "pos": "17",
+      "img": "",
+      "cn": "SL",
+      "name": "Angelo Mathews",
+      "rate": "660"
+    },
+     {
+      "pos": "18",
+      "img": "",
+      "cn": "PAK",
+      "name": "Babar Azam",
+      "rate": "658"
+    },
+     {
+      "pos": "19",
+      "img": "",
+      "cn": "SL",
+      "name": "Kusal Mendis",
+      "rate": "657"
+    },
+     {
+      "pos": "20",
+      "img": "",
+      "cn": "AUS",
+      "name": "Travis Head",
+      "rate": "644"
+    }
+  ]
+}
