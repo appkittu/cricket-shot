@@ -1,0 +1,311 @@
+{
+
+
+
+  "test": [
+
+
+
+   {
+
+
+
+     "pos": "1",
+     "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/7662.jpg",
+
+
+
+      "cn": "AUS",
+
+
+
+      "name": "Glenn Maxwell",
+
+
+
+      "rate": "390"
+
+    },
+
+
+
+  
+
+
+
+     {
+
+
+
+      "pos": "2",
+
+
+
+     "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/544.jpg",
+
+
+
+      "cn": "BAN",
+
+
+
+      "name": "Shakib Al Hasan",
+
+
+
+      "rate": "338"
+
+
+    },
+
+
+
+    
+
+
+
+ {
+
+
+
+      "pos": "3",
+
+
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/3007.jpg",
+
+
+
+      "cn": "AFG",
+
+
+
+      "name": "Mohammad Nabi",
+
+
+
+      "rate": "330"
+
+
+
+    },
+
+
+
+    {
+
+
+
+
+
+
+
+      "pos": "4",
+
+
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1121.jpg",
+
+
+
+      "cn": "BAN",
+
+
+
+      "name": "Mahmudullah",
+
+
+
+      "rate": "240"
+
+
+
+    },
+
+
+
+
+
+
+
+    {
+
+
+
+      "pos": "5",
+
+
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1398.jpg",
+
+
+
+      "cn": "SCO",
+
+
+
+      "name": "Richie Berrington",
+
+
+
+      "rate": "221"
+
+
+
+    },
+
+
+
+    {
+
+
+
+      "pos": "6",
+
+
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1114.jpg",
+
+
+
+      "cn": "IRE",
+
+
+
+      "name": "Paul Stirling",
+
+
+
+      "rate": "217"
+
+
+
+    },
+
+
+
+    {
+
+
+
+
+
+
+
+      "pos": "7",
+
+
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/2281.jpg",
+
+
+
+      "cn": "SL",
+
+
+
+      "name": "Thisara Perera",
+
+
+
+      "rate": "210"
+
+
+
+    },
+
+
+
+     {
+
+
+
+      "pos": "8",
+
+
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/441.jpg",
+
+
+
+      "cn": "ZIM",
+
+
+
+      "name": "Sean Williams",
+
+
+
+      "rate": "197"
+
+
+
+    },
+
+
+
+
+
+
+
+{
+
+
+
+      "pos": "9",
+
+
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/211.jpg",
+
+
+
+      "cn": "SA",
+
+
+
+      "name": "JP Duminy",
+
+
+
+      "rate": "185"
+
+
+
+    },
+
+
+
+{
+
+
+
+      "pos": "10",
+
+
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/690.jpg",
+
+
+
+      "cn": "IRE",
+
+
+
+      "name": "Kevin O Brien",
+
+
+
+      "rate": "180"
+
+
+
+    }
+
+
+
+  ]
+
+
+
+}
