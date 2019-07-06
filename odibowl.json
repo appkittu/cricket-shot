@@ -1,0 +1,93 @@
+{
+  "test": [
+    {
+
+      "pos": "1",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/9311.jpg",
+      "cn": "IND",
+      "name": "Jasprit Bumrah",
+      "rate": "774"
+    },
+
+    {
+
+      "pos": "2",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8117.jpg",
+      "cn": "NZ",
+      "name": "Trent Boult",
+      "rate": "753"
+    },
+
+    {
+
+      "pos": "3",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10738.jpg",
+      "cn": "AFG",
+      "name": "Rashid Khan",
+      "rate": "713"
+    },
+
+    {
+
+      "pos": "4",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/6667.jpg",
+      "cn": "SA",
+      "name": "Imran Tahir",
+      "rate": "699"
+
+    },
+
+    {
+
+      "pos": "5",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/9585.jpg",
+      "cn": "SA",
+      "name": "Kagiso Rabada",
+      "rate": "693"
+    },
+
+    {
+
+      "pos": "6",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8095.jpg",
+      "cn": "AUS",
+      "name": "Pat Cummins",
+      "rate": "692"
+    },
+
+    {
+
+      "pos": "7",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8292.jpg",
+      "cn": "IND",
+      "name": "Kuldeep Yadav",
+      "rate": "689"
+    },
+
+    {
+
+      "pos": "8",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/7910.jpg",
+      "cn": "IND",
+      "name": "Yuzvendra Chahal",
+      "rate": "680"
+    },
+
+    {
+     "pos": "9",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/6670.jpg",
+      "cn": "ENG",
+      "name": "Chris Woakes",
+      "rate": "650"
+    },
+
+    {
+
+      "pos": "10",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/9067.jpg",
+      "cn": "NZ",
+      "name": "Matt Henry",
+      "rate": "649"
+    },
+    ]
+    }
