@@ -1,0 +1,188 @@
+   
+
+{
+
+
+
+  "test": [
+
+
+
+    {
+
+      "pos": "1",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8359.jpg",
+
+      "cn": "PAK",
+
+      "name": "Babar Azam",
+
+      "rate": "896"
+
+
+    },
+
+    {
+
+      "pos": "2",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8085.jpg",
+
+      "cn": "NZ",
+
+      "name": "Colin Munro",
+
+      "rate": "825"
+
+    },
+
+
+
+
+
+
+
+    {
+
+      "pos": "3",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/7662.jpg",
+
+      "cn": "AUS",
+
+      "name": "Glenn Maxwell",
+
+      "rate": "815"
+
+    },
+
+
+
+
+
+    {
+
+      "pos": "4",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/1643.jpg",
+
+      "cn": "AUS",
+
+      "name": "Aaron Fich",
+
+      "rate": "782"
+
+    },
+
+
+
+    {
+
+      "pos": "5",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8733.jpg",
+
+      "cn": "IND",
+
+      "name": "Lokesh Rahul",
+
+      "rate": "726"
+
+
+
+    },
+
+
+
+
+
+
+
+    {
+
+      "pos": "6",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/12068.jpg",
+
+      "cn": "AFG",
+
+      "name": "Hazratullah Zazai",
+
+      "rate": "718"
+
+
+
+    },
+
+
+
+    {
+
+       "pos": "7",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/11050.jpg",
+
+      "cn": "AUS",
+
+      "name": "D Arcy Short",
+
+      "rate": "715"
+
+    },
+
+
+
+    {
+
+      "pos": "8",
+
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/8579.jpg",
+
+      "cn": "WI",
+
+      "name": "Evin Lewis",
+
+      "rate": "707"
+
+
+
+    },
+
+
+
+
+
+
+
+    {
+
+     "pos": "9",
+     "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/10863.jpg",
+
+      "cn": "PAK",
+
+      "name": "Fakhar Zaman",
+
+      "rate": "681"
+
+    },
+
+
+
+    {
+
+      "pos": "10",
+      "img": "https://www.cricbuzz.com/i/stats/fw/50x50/img/faceImages/576.jpg",
+
+      "cn": "IND",
+
+      "name": "Rohit Sharma",
+
+      "rate": "673"
+
+
+
+    }
+
+    ]
+
+    }
